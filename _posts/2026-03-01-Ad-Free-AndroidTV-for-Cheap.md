@@ -4,7 +4,7 @@ title: Ad-Free Android TV for Under $50
 date: 2026-03-01 20:25
 category: guide
 author: Crixle
-tags: ["androidtv"]
+tags: ["androidtv", "streaming"]
 summary: Android TV device recommendation and how to debloat and remove ads from it.
 ---
 ![Clean Android TV Interface](/images/androidtv/cleanandroidtv.png)
