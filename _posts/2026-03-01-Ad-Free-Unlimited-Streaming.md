@@ -23,7 +23,7 @@ This is going to use
 3. **Indexers**: The librarians of torrents. Your client will ask an indexer for the locations of a specific movie/show, and the indexer will return a list of locations across multiple torrents / sites it monitors.
 
 ## Setup Real-Debrid
-1. Go to [Real-Debrid](http://real-debrid.com/?id=9757212) and click **Sign Up**.
+1. Go to [Real-Debrid](https://real-debrid.com/?id=9757212) and click **Sign Up**.
     Fill in the usual stuff. Username, email, password, etc.
 2. Once you're signed in, go to **Premium Offers** at the top and select a package.
     > Maybe buy 15 days at first, but it's a way better value to buy 3-6 months at once.
@@ -38,7 +38,7 @@ This process is very straight forward - [just create an account here.](https://w
 ## Setup AIOStreams
 AIOStreams, AKA 'All-in-One Streams', AKA combines many indexers into one addon for simplicity and makes Stremio much easier to use.
 
-1. Go to [themoviedb.org](themoviedb.org) and create an account.
+1. Go to [themoviedb.org](https://themoviedb.org) and create an account.
 2. Once you create your account, [get your API key](https://www.themoviedb.org/settings/api) and write it down somewhere with your Real-Debrid API key. (32 characters, **NOT** the Read Access Token.)
 2. Go to [AIOStreams configuration](https://aiostreams.elfhosted.com/stremio/configure)
 3. Select **Simple** for your experience, or Advanced if you're feeling fearless.
